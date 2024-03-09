@@ -1,2 +1,2 @@
 # Machine-Learning-Lab
-Will contain all the lab materials of ML
+This contains all the materials of Machine Learning Lab :)
